@@ -1,0 +1,16 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "米聊"
+			}
+		}
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "米聊",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	}
+}
